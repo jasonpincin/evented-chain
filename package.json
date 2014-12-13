@@ -1,6 +1,6 @@
 {
   "name": "evented-chain",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Chain async callbacks together; monitor progress with events",
   "main": "index.js",
   "scripts": {
