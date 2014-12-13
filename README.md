@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/jasonpincin/evented-chain/badge.png?branch=master)](https://coveralls.io/r/jasonpincin/evented-chain?branch=master)
 [![NPM version](https://badge.fury.io/js/evented-chain.png)](http://badge.fury.io/js/evented-chain)
 [![Davis Dependency Status](https://david-dm.org/jasonpincin/evented-chain.png)](https://david-dm.org/jasonpincin/evented-chain)
+
 [![browser support](http://ci.testling.com/jasonpincin/evented-chain.png)](http://ci.testling.com/jasonpincin/evented-chain)
 
 Chain async callbacks together; monitor progress with events
