@@ -5,9 +5,6 @@
 [![NPM version](https://badge.fury.io/js/evented-chain.png)](http://badge.fury.io/js/evented-chain)
 [![Davis Dependency Status](https://david-dm.org/jasonpincin/evented-chain.png)](https://david-dm.org/jasonpincin/evented-chain)
 
-
-[![browser support](http://ci.testling.com/jasonpincin/evented-chain.png)](http://ci.testling.com/jasonpincin/evented-chain)
-
 Chain async callbacks together; monitor progress with events
 
 ## example
@@ -81,7 +78,6 @@ of arguments passed to the final callback, minus the first (non-existant error) 
 * `--dot` - output test results as dots instead of tap
 * `--spec` - output test results as spec instead of tap
 * `--coverage` - display text cover report
-* `--testling` - run tests in browser via testling 
   
 
 ### patterns
