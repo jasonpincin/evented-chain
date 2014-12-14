@@ -15,7 +15,12 @@
     "type": "git",
     "url": "git://github.com/jasonpincin/evented-chain.git"
   },
-  "keywords": [],
+  "keywords": [
+    "waterfall",
+    "chain",
+    "callback",
+    "event"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jasonpincin/evented-chain/issues"
