@@ -9,7 +9,7 @@ Chain async callbacks together; monitor progress with events
 
 ## example
 
-```
+```javascript
 var chain = require('evented-chain')
 
 function double (x, cb) {
@@ -33,7 +33,7 @@ doubleSquare(2, function (err, result) { console.log('callback got ' + result) }
 
 ## api
 
-```
+```javascript
 var chain = require('evented-chain')
 ```
 
@@ -55,7 +55,7 @@ Same as above, but chain functions may be supplied to `chain` in an array instea
 
 ### events
 
-```
+```javascript
 var progress = fn()
 ```
 
